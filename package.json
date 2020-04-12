@@ -1,0 +1,23 @@
+{
+  "name": "ahun-date-and-time-converter",
+  "version": "1.0.0",
+  "description": "A simple javascript library that used as a converter from Gregorian time and date to Habeshan time and date.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YaelAbdissa/Ahun-Date-and-Time-Converter.git"
+  },
+  "keywords": [
+    "convert-now",
+    "convert-today"
+  ],
+  "author": "Eyael",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YaelAbdissa/Ahun-Date-and-Time-Converter/issues"
+  },
+  "homepage": "https://github.com/YaelAbdissa/Ahun-Date-and-Time-Converter#readme"
+}
