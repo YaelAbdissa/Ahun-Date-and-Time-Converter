@@ -150,6 +150,7 @@ function converter() {
     let dayName = getDayName(date);
 
     let text = greetingText + " አሁን " + timeSession + " " + hour1 + ":" + minute + " \n" + dayName + " - " + monthName + " " + day + "/" + month + "/" + year;
+    console.log(text);
     return text;
 }
 
