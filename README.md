@@ -15,7 +15,7 @@ ethiopianTime();
 ```  
 Then by executing 
 
- ``` node <your-javascript-filename.js> ```
+ ``` node <your-javascript-filename.js> ``` on your command,
  
  you should see the greeting and the converted date and time.
 
